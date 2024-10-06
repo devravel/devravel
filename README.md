@@ -1,4 +1,4 @@
-## Olá, eu sou o Ravel Cruz 👊🏾
+## Olá, eu sou o Ravel Cruz! 👨🏾‍💻
 
 
 <img height="40" width="30" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> <img height="40" width="30" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
