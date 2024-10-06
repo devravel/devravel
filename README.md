@@ -15,4 +15,4 @@
 </div><br/>
 
 
-Estudante de Desenvolvimento de Sistemas, apaixonado por resolver problemas usando códigos! Atualmente estudando o Desenvolvimento Web em geral.
+Jovem estudante de Desenvolvimento de Sistemas, apaixonado por resolver problemas usando códigos! Atualmente estudando o Desenvolvimento Web em geral.
