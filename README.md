@@ -16,7 +16,7 @@
 </div><br/>
 
 
-Estudante de Desenvolvimento de Sistemas, apaixonado por resolver problemas usando códigos! Atualmente estudando o Desenvolvimento Web em geral.
+Sempre evoluindo e em busca de novas tecnologias!
 ## Contatos:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ravelsylvestre/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512997692740?text=Ol%C3%A1%2C%20quero%20iniciar%20um%20projeto!)
