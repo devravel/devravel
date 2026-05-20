@@ -13,8 +13,6 @@ Right now, most of my work is centered around:
 
 One of the projects I'm currently developing is ClassOn, a multi-user academic management platform built as my final course project.
 
-I keep this profile simple and I let each project speak for itself through proper documentation and structure.
-
 ---
 
 ### Tools & Tech
