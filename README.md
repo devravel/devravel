@@ -1,8 +1,7 @@
 ### Hey there 👋
-
 I'm Ravel, a full stack developer and technology enthusiast from Brazil.
 
-I'm currently focused on building modern and well-structured systems using technologies like Next.js, NestJS and PostgreSQL.
+I'm focused on building modern and well-structured systems using technologies like Next.js, NestJS and PostgreSQL.
 
 Right now, most of my work is centered around:
 - scalable web applications
@@ -12,7 +11,6 @@ Right now, most of my work is centered around:
 - user-focused interfaces
 
 One of the projects I'm currently developing is ClassOn, a multi-user academic management platform built as my final course project.
-
 ---
 
 ### Tools & Tech
@@ -23,7 +21,6 @@ One of the projects I'm currently developing is ClassOn, a multi-user academic m
 - MySQL, PostgreSQL
 - Tailwind CSS, shadcn/ui
 - Git, GitHub, Docker
-
 ---
 
 ### Currently Working On
